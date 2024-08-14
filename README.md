@@ -1,3 +1,4 @@
 # OtherScripts
-DNB Token Total Calculation Scripts \n
+DNB Token Total Calculation Scripts 
+
 Swap Bonus Script
